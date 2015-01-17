@@ -1,0 +1,46 @@
+{
+    "interparking": { 
+        "omschrijving": "Parkeerabonnementen tot 31-mm-2015"
+    },
+
+    "servipark": {
+        "omschrijving": "Uitrijkaartjes parking tot 31-mm-2015"
+    },
+
+    "sodexo": {
+        "omschrijving": "Maaltijdcheques mm-2015 (N)",
+        "boekingslijnen": [
+            {
+                "grootboekrekening": "620230",
+                "omschrijving": "Maaltijdcheques mm-2015 (N)",
+                "btw-code": 0
+            },
+            {
+                "grootboekrekening": "620230",
+                "omschrijving": "Begunstigdenbeheer mm-2015",
+                "btw-code": 5
+            }
+        ]
+    },
+    
+    "athloncarlease": {
+        "omschrijving": "Autoleasing tot 31-mm-2015",
+        "boekingslijnen" : [
+            {
+                "grootboekrekening": "620102", 
+                "omschrijving": "Wagenbeheer 20% VU tot 31-mm-2015",
+                "btw-code": 5
+            },
+            {
+                "grootboekrekening": "620101",
+                "omschrijving": "Wagenbeheer 10% VU tot 31-mm-2015",
+                "btw-code": 5
+            },
+            {
+                "grootboekrekening": "620150",
+                "omschrijving": "Brandstof tot 31-mm-2015",
+                "btw-code": 5
+            }
+        ]
+    }
+}
